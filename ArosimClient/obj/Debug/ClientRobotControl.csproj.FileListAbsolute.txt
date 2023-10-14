@@ -1,0 +1,10 @@
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Debug\ClientRobotControl.exe.config
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Debug\ClientRobotControl.exe
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Debug\ClientRobotControl.pdb
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.Form1.resources
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.Properties.Resources.resources
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.csproj.GenerateResource.cache
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.exe
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.pdb
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Debug\ClientRobotControl.csproj.AssemblyReference.cache

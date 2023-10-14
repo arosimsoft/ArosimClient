@@ -1,0 +1,9 @@
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Release\ClientRobotControl.exe.config
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Release\ClientRobotControl.exe
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\bin\Release\ClientRobotControl.pdb
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.Form1.resources
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.Properties.Resources.resources
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.csproj.GenerateResource.cache
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.exe
+C:\Users\mikdevio\source\repos\ClientRobotControl\ClientRobotControl\obj\Release\ClientRobotControl.pdb

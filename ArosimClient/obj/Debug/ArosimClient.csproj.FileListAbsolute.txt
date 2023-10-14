@@ -1,0 +1,9 @@
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\bin\Debug\ArosimClient.exe.config
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\bin\Debug\ArosimClient.exe
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\bin\Debug\ArosimClient.pdb
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.Form1.resources
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.Properties.Resources.resources
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.csproj.GenerateResource.cache
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.csproj.CoreCompileInputs.cache
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.exe
+C:\Users\mikdevio\source\repos\ArosimClient\ArosimClient\obj\Debug\ArosimClient.pdb
